@@ -5,7 +5,7 @@ body{
   }
   
   .d1{
-    background-image:url(../images/images\ \(1\).jpeg);
+    background-image:url(../images/images\ \(3\).jpeg);
     text-align: center;
     background-size: 1200px;
     color:white;
@@ -32,24 +32,24 @@ body{
     position: absolute;
     bottom: 50px;
     right: 700px;
-    background-color: orange;
+    background-color:coral;
     color: white;
     padding-left: 30px;
     padding-right: 20px;
   }
   .large{
     display: none;
-    background-color: orange;
+    background-color:coral;
     color: white;
   }
   .medium{
     display: none;
-    background-color: orange;
+    background-color:coral;
     color: white;
   }
   .small{
     display: none;
-    background-color: orange;
+    background-color:coral;
     color:white;
   }
   strong{
@@ -65,7 +65,7 @@ body{
   }
   .ef{
     text-align: center;
-    background-color: orange;
+    background-color:coral;
   }
   .col-md-8{
     padding-left: 500px;
