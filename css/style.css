@@ -1,6 +1,7 @@
 body{
     font-family:inherit;
     margin:10;
+    background-color: darkgray;
   
   }
   
@@ -40,17 +41,17 @@ body{
   .large{
     display: none;
     background-color:coral;
-    color: white;
+    color:transparent;
   }
   .medium{
     display: none;
     background-color:coral;
-    color: white;
+    color:transparent;
   }
   .small{
     display: none;
     background-color:coral;
-    color:white;
+    color:transparent;
   }
   strong{
     text-align: center;
