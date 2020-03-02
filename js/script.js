@@ -86,7 +86,7 @@ $(document).ready(function () {
   $("#pick").click(function () {
       $("#price").show();
       $("#order").show();
-      $("#details").text()=choosenSize+", "+choosenCrust+", ";
+      // $("#details").text()=choosenSize+", "+choosenCrust+", ";
       $("#pizza-amount").text() = priceSize + priceCrust + specialTopping + " ksh";
       $("#check").show();
       $("#check").click(function () {

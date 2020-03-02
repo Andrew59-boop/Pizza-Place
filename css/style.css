@@ -41,7 +41,7 @@ body{
   .large{
     display: none;
     background-color:coral;
-    color:white;
+    /* color:white; */
   }
   .medium{
     display: none;
@@ -66,8 +66,11 @@ body{
   }
   .ef{
     text-align: center;
-    background-color:coral;
+    background-color: sienna;
   }
   .col-md-8{
     padding-left: 500px;
   }
+.B{
+  background-color: darkgray;
+}
