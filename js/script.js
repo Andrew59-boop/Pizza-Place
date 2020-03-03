@@ -7,6 +7,8 @@ function Contact(fname, address) {
       this.city = city;
       this.county = county;
     }
+
+    // Contact.prototype.
   $(document).ready(function(){
   $(".A").hover(function(){
     $(".large").slideToggle()
